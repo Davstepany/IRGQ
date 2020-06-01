@@ -1,2 +1,2 @@
-# IMRGQ
-IMRGQ generator
+# IRGQ
+IRGQ generator
